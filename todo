@@ -1,0 +1,14 @@
+#get the command line arguments
+#neglect the zeroth index;
+#loop through to get the rest of the arguments
+#pass to the functions ex : push
+
+assumption
+
+        cat -
+    e bytecodes / 00.m
+
+                  push 1 $->1 push 2 $->2 push 1 $->3 pall
+
+                      ./
+        monty bytecodes / 00.m./ monty push 1 $ push 2 $ push 1 $
